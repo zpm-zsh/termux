@@ -1,6 +1,6 @@
 # Termux
 
-This is plugin for compatibility with [Temux](https://termux.com/)
+This is plugin for compatibility with [Termux](https://termux.com/)
 
 
 ## Installation
