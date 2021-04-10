@@ -1,4 +1,4 @@
 #!/usr/bin/env zsh
-
-termux-fix-shebang $(echo ${ZSH_CACHE_DIR}/bin/*)
+setopt caseglob
+termux-fix-shebang "${ZSH_CACHE_DIR}/bin/"*
 
